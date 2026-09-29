@@ -1,3 +1,4 @@
 # Sofiya Poletaeva
 ## Local Git Check
-system("git --version")
+system("Git Version")
+This line was added in RStudio.
